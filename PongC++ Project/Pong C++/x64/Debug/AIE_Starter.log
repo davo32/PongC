@@ -1,0 +1,17 @@
+﻿  GameManager.cpp
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\packages\raylib.4.0.0.7\build\native\include\raygui.h(3273,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\packages\raylib.4.0.0.7\build\native\include\raygui.h(3274,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(18,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(23,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(24,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(134,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(142,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(152,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(226,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(227,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(244,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(245,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(258,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\AIE_Starter\GameManager.cpp(259,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  AIE_Starter.vcxproj -> F:\AIE\AIE_GameProgramming_2023\Intro to C++ Assessments\Task 4\AIE_Starter (2)\AIE_Starter\x64\Debug\AIE_Starter.exe
